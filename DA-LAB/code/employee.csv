@@ -1,0 +1,6 @@
+﻿eid,name,gender,department,age,salary,working_years,birth_place
+E014,Donlaya,female,marketing,39,72600.0,8,Chonburi
+E015,Ekkasit,male,marketing,37,80500.0,7,Suphanburi
+E016,Fundee,female,support,35,56600.0,3,Phuket
+E017,Gitiwit,male,support,26,42400.0,2,Suphanburi
+E018,Harit,male,devops,32,67700.0,5,Bangkok

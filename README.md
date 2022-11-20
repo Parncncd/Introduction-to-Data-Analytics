@@ -3,7 +3,7 @@
 A course I enrolled in Junior year 🎓
 <br><br>
 
-* [Regression Analysis Assignment](https://github.com/chananchida-srithongdee/introduction-to-data-analytics/tree/main/RegressionAnalysis)
+* [Regression Analysis Assignment](https://github.com/chananchida-srithongdee/introduction-to-data-analytics/tree/master/RegressionAnalysis)
   using 
    - numpy
    - pandas
@@ -13,7 +13,7 @@ A course I enrolled in Junior year 🎓
       - train-test split
       - LinearRegression 
 
-* [Classification Analysis Assignment](https://github.com/chananchida-srithongdee/introduction-to-data-analytics/tree/main/ClassificationAnalysis)
+* [Classification Analysis Assignment](https://github.com/chananchida-srithongdee/introduction-to-data-analytics/tree/master/ClassificationAnalysis)
   using 
    - numpy
    - pandas
